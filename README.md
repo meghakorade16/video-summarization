@@ -9,3 +9,7 @@ Please download the dataset directly from http://people.csail.mit.edu/yalesong/t
 
 # Software prerequisite:
 requirements.txt file shows all the required software packages needed to run the project
+
+# Steps to run the project
+1. Run /preprocess/preprocess.py file to extract frames from a test video. Frame extraction process is now one frame per second and it can be changed as per requirements.
+2. Run /video_segmentation/segment_video.py to run segmentation code. For segmentation, exsisting segmentation framework BubbleNet has been used.
