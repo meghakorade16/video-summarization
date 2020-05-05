@@ -8,8 +8,10 @@ All of the prior works in the area of video summarization is done either by expl
 Please download the dataset directly from http://people.csail.mit.edu/yalesong/tvsum.
 
 # Software prerequisite:
-requirements.txt file shows all the required software packages needed to run the project
+requirements.txt file shows all the required software packages needed to run the project. You can use PIP install to install all the packages. 
 
 # Steps to run the project
 1. Run /preprocess/preprocess.py file to extract frames from a test video. Frame extraction process is now one frame per second and it can be changed as per requirements.
+Preprocessing: TVSum Annotation file contains video ID, Category code and
+
 2. Run /video_segmentation/segment_video.py to run segmentation code. For segmentation, exsisting segmentation framework BubbleNet has been used.
