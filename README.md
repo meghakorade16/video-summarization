@@ -1,2 +1,2 @@
-# video-summarization
-This repository contains code for video summarization using Neural Network
+# Video Summarization
+This repository contains code for video summarization using Neural Network.
