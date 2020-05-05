@@ -6,3 +6,6 @@ All of the prior works in the area of video summarization is done either by expl
 
 # How to get the data:
 Please download the dataset directly from http://people.csail.mit.edu/yalesong/tvsum.
+
+# Software prerequisite:
+requirements.txt file shows all the required software packages needed to run the project
