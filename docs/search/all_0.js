@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['video_20summarization_20using_20deep_20multi_2dmodal_20networks_0',['Video Summarization using Deep Multi-modal Networks',['../index.html',1,'']]]
+  ['_5f_5finit_5f_5f_0',['__init__',['../classdataset__mod_1_1_dataset.html#acac07905d992799b8380ce2fec773f21',1,'dataset_mod::Dataset']]]
 ];
