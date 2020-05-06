@@ -10,7 +10,7 @@ Please download the dataset directly from http://people.csail.mit.edu/yalesong/t
 # Software prerequisite:
 requirements.txt file shows all the required software packages needed to run the project. You can use PIP install to install all the packages. 
 
-# Steps to run the project
+# Steps to run the project:
 1. Run /preprocess/preprocess.py file to extract frames from a test video. Frame extraction process is now one frame per second and it can be changed as per requirements.
 Preprocessing: TVSum Annotation file contains video ID, Category code and
 
