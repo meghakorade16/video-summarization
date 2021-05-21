@@ -1,5 +1,5 @@
 Python==3.8.2
-TensorFlow==2.1.0
+TensorFlow==2.5.0
 OpenCV==4.2.0
 numpy==1.12.1
 matplotlib==2.0.2
