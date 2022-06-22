@@ -1,7 +1,7 @@
 Python==3.8.2
 TensorFlow==2.1.0
 OpenCV==4.2.0
-numpy==1.12.1
+numpy==1.22.0
 matplotlib==2.0.2
 Pillow==7.1.2
 easydict==1.7
